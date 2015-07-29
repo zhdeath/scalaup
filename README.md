@@ -1,0 +1,2 @@
+# scalaup
+Up scala skills
