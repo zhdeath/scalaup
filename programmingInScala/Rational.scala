@@ -57,4 +57,4 @@ class Rational(n: Int, d: Int) {
 }
 
 // implicit convention from Int to Rational when needed
-implicit def initToRational(x: Int) = new Rational(x)
+implicit def intToRational(x: Int) = new Rational(x)
